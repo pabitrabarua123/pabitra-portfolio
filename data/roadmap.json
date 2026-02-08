@@ -1,0 +1,77 @@
+{
+  "roadmap": [
+    {
+      "heading": "Relicons Technologies Pvt Ltd",
+      "date": "January, 2017 - November, 2018",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Junior Web Developer",
+      "list": [
+        {
+          "desc": "Worked in a startup as part of a developer team."
+        },
+        {
+          "desc": "Mostly handled WordPress projects and frontend work with HTML, CSS, and JavaScript."
+        }
+      ]
+    },
+    {
+      "heading": "VirtualNod",
+      "date": "December, 2018 - December, 2019",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Web Developer",
+      "list": [
+        {
+          "desc": "Developed different types of websites and tools in a startup."
+        },
+        {
+          "desc": "Created small JavaScript-based tools (like calculators), PHP websites, admin panels, and MySQL projects."
+        }
+      ]
+    },
+    {
+      "heading": "Skills OutsourceThink Pvt Ltd",
+      "date": "January, 2020 - March, 2020",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "PHP Developer",
+      "list": [
+        {
+          "desc": "Worked in a big development team and supported senior developers."
+        },
+        {
+          "desc": "Did frontend tasks with Angular, HTML, CSS, and JavaScript."
+        },
+        {
+          "desc": "Helped with PHP coding and debugging."
+        }
+      ]    
+    },
+    {
+      "heading": "VirtualNod",
+      "date": "January, 2021 - Present",
+      "isCheck": false,
+      "isLoading": true,
+      "isBorader": true,
+      "title": "Full-stack Web Developer",
+      "list": [
+        {
+          "desc": "Built full-stack web applications using React.js, Next.js, Node.js, and modern JavaScript."
+        },
+        {
+          "desc": "Integrated OpenAI API for content features and implemented secure authentication with NextAuth."
+        },
+        {
+          "desc": "Developed payment solutions using Stripe and Instamojo for premium access."
+        },
+        {
+          "desc": "Managed PostgreSQL and MySQL databases for efficient data handling and backend support."
+        }
+      ]
+    }
+  ]
+}
