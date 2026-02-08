@@ -76,7 +76,7 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="400"
                     >
-                      <Link href="https://github.com/pabitrabarua123/oneclickhuman" legacyBehavior>
+                      <Link href="https://github.com/pabitrabarua123/oneclickhuman---Frontend" legacyBehavior>
                         <a className="btn-default" target="_blank" rel="noopener noreferrer">
                           Visit Website
                         </a>

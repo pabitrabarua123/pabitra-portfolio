@@ -2,12 +2,10 @@
 
 import React, { useEffect } from "react";
 import sal from "sal.js";
-import Link from "next/link";
 import Pabitra from "../../public/images/pabitra.png"
 import Image from "next/image";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import { MdDownload } from "react-icons/md";
 
 const Service = () => {
   useEffect(() => {
@@ -51,8 +49,9 @@ const Service = () => {
                 <a 
                   class="btn-default btn-large btn-border popup-video vbox-item" 
                   data-vbtype="video" 
-                  href="#">
-                  <MdDownload/> GET RESUME
+                  href="https://github.com/pabitrabarua123"
+                  target="_blank">
+                  SEE MY PROJECTS
                 </a>
               </div>
             </div>
@@ -111,8 +110,9 @@ const Service = () => {
           </div>
           <div>
             <span className="ml-4 text-white">work_experience:</span>
-            <span className="text-orange">8</span>
-            <span className="text-gray">,</span>
+            <span className="text-gray">'</span>
+            <span className="text-green">8+ years</span>
+            <span className="text-gray">',</span>
           </div>
           <div>
             <span className="ml-4 text-white">repositories:</span>
@@ -133,6 +133,7 @@ const Service = () => {
             <span className="text-cyan">Express</span><span className="text-gray">', '</span>
             <span className="text-cyan">MySQL</span><span className="text-gray">', '</span>
             <span className="text-cyan">PostgreSQL</span><span className="text-gray">', '</span>
+            <span className="text-cyan">Prisma</span><span className="text-gray">', '</span>
             <span className="text-cyan">Bootstrap</span><span className="text-gray">', '</span>
             <span className="text-cyan">Tailwind</span><span className="text-gray">', '</span>
             <span className="text-cyan">Chakra UI</span><span className="text-gray">', '</span>
