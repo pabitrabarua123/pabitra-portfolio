@@ -99,13 +99,13 @@ const Service = () => {
           <div>
             <span className="ml-4 text-white">location:</span>
             <span className="text-gray">'</span>
-            <span className="text-green">West Bengal - Mathabhanga</span>
+            <span className="text-green">West Bengal, India</span>
             <span className="text-gray">',</span>
           </div>
           <div>
             <span className="ml-4 text-white">role:</span>
             <span className="text-gray">'</span>
-            <span className="text-green">Fullstack Developer</span>
+            <span className="text-green">Fullstack Web Developer</span>
             <span className="text-gray">',</span>
           </div>
           <div>
@@ -116,7 +116,7 @@ const Service = () => {
           </div>
           <div>
             <span className="ml-4 text-white">repositories:</span>
-            <span className="text-orange">9</span>
+            <span className="text-orange">15+</span>
             <span className="text-gray">,</span>
           </div>
           <div className="ml-4">
@@ -133,13 +133,17 @@ const Service = () => {
             <span className="text-cyan">Express</span><span className="text-gray">', '</span>
             <span className="text-cyan">MySQL</span><span className="text-gray">', '</span>
             <span className="text-cyan">PostgreSQL</span><span className="text-gray">', '</span>
+            <span className="text-cyan">mongoDB</span><span className="text-gray">', '</span>
             <span className="text-cyan">Prisma</span><span className="text-gray">', '</span>
             <span className="text-cyan">Bootstrap</span><span className="text-gray">', '</span>
             <span className="text-cyan">Tailwind</span><span className="text-gray">', '</span>
             <span className="text-cyan">Chakra UI</span><span className="text-gray">', '</span>
             <span className="text-cyan">Figma</span><span className="text-gray">', '</span>
             <span className="text-cyan">Adobe Photoshop</span><span className="text-gray">', '</span>
-            <span className="text-cyan">Material UI</span><span className="text-gray">'],</span>
+            <span className="text-cyan">Material UI</span><span className="text-gray">', '</span>
+            <span className="text-cyan">AWS</span><span className="text-gray">', '</span>
+            <span className="text-cyan">Linux</span><span className="text-gray">', '</span>
+            <span className="text-cyan">Version Control (Git)</span><span className="text-gray">'],</span>
           </div>
           <div>
             <span className="ml-4 text-white">hireable:</span>

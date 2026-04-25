@@ -2,8 +2,8 @@ import BackToTop from "./backToTop";
 import HomePage from "./home/page";
 
 export const metadata = {
-  title: "Home - || ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
-  description: "ChatenAI - AI SaaS Website NEXTJS14 UI Kit",
+  title: "Portfolio of Pabitra Barua - Fullstack Web Developer",
+  description: "",
 };
 
 export default function Home() {
