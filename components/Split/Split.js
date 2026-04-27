@@ -4,6 +4,7 @@ import Link from "next/link";
 import splitImg from "../../public/images/split/split-8.png";
 import oneclik from "../../public/images/split/oneclick2.png" 
 import talkcure from "../../public/images/split/talkcure.png"
+import hustleworthy from "../../public/images/split/hustleworthy.png"
 
 const Split = () => {
   return (
@@ -67,10 +68,12 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
+                      <li>Built a full-stack web application using Next.js, Javascript (ES6), API - Node.js, Express and MySQL for Database</li>
                       <li>Created using Next.js with OpenAI API integration and real-time streaming.</li>
                       <li>Secured Authentication, so user login and permissions are handled safely and correctly.</li>
                       <li>Integrated Stripe payments to unlock premium features securely.</li>
                       <li>Admin dashboard for managing users, payments, and settings.</li>
+                      <li>Email notifications for user updates and alerts.</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
@@ -117,11 +120,13 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
+                      <li>Developed a full-stack web application using Next.js, TypeScript, Prisma and PostgreSQL</li>
                       <li>Users can browse available therapists and book sessions with flexible scheduling</li>
                       <li>Secure authentication with Next-Auth (credentials based)</li>
                       <li>Integrated payment processing with Stripe</li>
                       <li>Google Calendar integration for real-time slot management</li>
                       <li>Admin dashboard for managing therapists, appointments, and user data</li>
+                      <li>Email notifications for user updates and alerts.</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
@@ -155,7 +160,7 @@ const Split = () => {
                   <div className="thumbnail">
                     <Image
                       className="radius"
-                      src={splitImg}
+                      src={hustleworthy}
                       alt="split Images"
                     />
                   </div>
@@ -168,7 +173,7 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="200"
                     >
-                      Instant Content with AI
+                      Listing of Money Making Websites
                     </h4>
                     <p
                       className="description"
@@ -176,9 +181,7 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="300"
                     >
-                      Unlock Conversion-Driven Content: Business Bios, Facebook
-                      Ads, Product Descriptions, Emails, Landing Pages, Social
-                      Ads, and Beyond.
+                      Hustleworthy is a platform for discovering money-making websites with user reviews, earning potential, payout details, and expert ratings to help find the best options.
                     </p>
                     <ul
                       className="split-list"
@@ -186,9 +189,10 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
-                      <li>- Craft Articles in Under 20 Seconds.</li>
-                      <li>- Reclaim Hundreds of Valuable Hours with AI</li>
-                      <li>- Elevate Copywriting with Rewriter.</li>
+                      <li>Built a full-stack platform using Next.js App Router, TypeScript, and PostgreSQL</li>
+                      <li>Added secure login with credentials-based authentication using NextAuth</li>
+                      <li>Created a listing system with pagination, filtering, and sorting for easy browsing</li>
+                      <li>Built a user review system with threaded replies for better interaction</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
@@ -196,9 +200,10 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="400"
                     >
-                      <Link className="btn-default" href="/contact">
-                        Contact With Us
+                      <Link className="btn-default" href="https://hustleworthy.com/" target="_blank" rel="noopener noreferrer">
+                        Visit Website
                       </Link>
+                      <span className="text-xs ml-4">(Private GitHub Repository)</span>
                     </div>
                   </div>
                 </div>
