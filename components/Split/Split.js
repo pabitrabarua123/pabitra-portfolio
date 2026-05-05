@@ -222,7 +222,7 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="200"
                     >
-                      Instant Content with AI
+                      Top Realtors - Listing of top real estate brokers in Dubai.
                     </h4>
                     <p
                       className="description"
@@ -230,9 +230,7 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="300"
                     >
-                      Unlock Conversion-Driven Content: Business Bios, Facebook
-                      Ads, Product Descriptions, Emails, Landing Pages, Social
-                      Ads, and Beyond.
+                      Built with HTML, CSS, JavaScript, PHP and MySQL, this web application provides a comprehensive listing of the top real estate brokers in Dubai, allowing users to easily find and connect with trusted professionals in the industry.
                     </p>
                     <ul
                       className="split-list"
@@ -240,9 +238,10 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="350"
                     >
-                      <li>- Craft Articles in Under 20 Seconds.</li>
-                      <li>- Reclaim Hundreds of Valuable Hours with AI</li>
-                      <li>- Elevate Copywriting with Rewriter.</li>
+                      <li>Shows the top 100 real estate broker websites in a clean, modern layout</li>
+                      <li>Advanced search functionality with filters for sales, rentals, investment opportunities, location, and broker name</li>
+                      <li>Pagination for quick page switching and easy browsing of listings</li>
+                      <li>Brokers can add new property listings, which are reviewed and approved by the admin before going live</li>
                     </ul>
                     <div
                       className="view-more-button mt--35"
