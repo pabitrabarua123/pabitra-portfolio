@@ -5,6 +5,7 @@ import splitImg from "../../public/images/split/split-8.png";
 import oneclik from "../../public/images/split/oneclick2.png" 
 import talkcure from "../../public/images/split/talkcure.png"
 import hustleworthy from "../../public/images/split/hustleworthy.png"
+import toprealtors from "../../public/images/split/toprealtors.png"
 
 const Split = () => {
   return (
@@ -249,8 +250,8 @@ const Split = () => {
                       data-sal-duration="400"
                       data-sal-delay="400"
                     >
-                      <Link className="btn-default" href="/contact">
-                        Contact With Us
+                      <Link className="btn-default" href="https://toprealtors.ae/" target="_blank" rel="noopener noreferrer">
+                        Visit Website
                       </Link>
                     </div>
                   </div>
@@ -259,7 +260,7 @@ const Split = () => {
                   <div className="thumbnail">
                     <Image
                       className="radius"
-                      src={splitImg}
+                      src={toprealtors}
                       alt="split Images"
                     />
                   </div>
