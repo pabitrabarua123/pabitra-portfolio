@@ -41,7 +41,9 @@ const Service = () => {
                   alt="portfolio"
                   className="portfolio-avatar"
                 />
-                <p className="description b1 color-gray mb--0 mt--25" style={{fontSize: '17px'}}>⚡I'm a passionate web developer who loves building complete web application, handling both frontend design and backend logic, creating fast and user-friendly experiences while continuously learning new skills.⚡</p>
+                <p className="description b1 color-gray mb--0 mt--25" style={{fontSize: '17px'}}>
+                  I am a Full-Stack Developer who enjoys building real-world applications and turning ideas into working products. I work across different parts of an application — from frontend interfaces and backend logic to REST API development, third-party integrations, deployment, and production workflows.
+                </p>
                 <ul className="social-links">
                   <li><a href="#"><FaLinkedin/></a></li>
                   <li><a href="#"><FaGithub/></a></li>
