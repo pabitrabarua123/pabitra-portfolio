@@ -48,13 +48,6 @@ const Service = () => {
                   <li><a href="#"><FaLinkedin/></a></li>
                   <li><a href="#"><FaGithub/></a></li>
                 </ul>
-                <a 
-                  class="btn-default btn-large btn-border popup-video vbox-item" 
-                  data-vbtype="video" 
-                  href="https://github.com/pabitrabarua123"
-                  target="_blank">
-                  SEE MY PROJECTS
-                </a>
               </div>
             </div>
           </div>
