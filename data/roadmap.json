@@ -1,38 +1,6 @@
 {
   "roadmap": [
     {
-      "heading": "Relicons Technologies Pvt Ltd",
-      "date": "January, 2017 - November, 2018",
-      "isCheck": false,
-      "isLoading": true,
-      "isBorader": true,
-      "title": "Junior Web Developer",
-      "list": [
-        {
-          "desc": "Worked in a startup as part of a developer team."
-        },
-        {
-          "desc": "Mostly handled WordPress projects and frontend work with HTML, CSS, and JavaScript."
-        }
-      ]
-    },
-    {
-      "heading": "VirtualNod",
-      "date": "December, 2018 - December, 2019",
-      "isCheck": false,
-      "isLoading": true,
-      "isBorader": true,
-      "title": "Web Developer",
-      "list": [
-        {
-          "desc": "Developed different types of websites and tools in a startup."
-        },
-        {
-          "desc": "Created small JavaScript-based tools (like calculators), PHP websites, admin panels, and MySQL projects."
-        }
-      ]
-    },
-    {
       "heading": "Skills OutsourceThink Pvt Ltd",
       "date": "January, 2020 - March, 2020",
       "isCheck": false,
@@ -52,7 +20,7 @@
       ]    
     },
     {
-      "heading": "VirtualNod",
+      "heading": "Freelance Web Developer",
       "date": "January, 2021 - Present",
       "isCheck": false,
       "isLoading": true,

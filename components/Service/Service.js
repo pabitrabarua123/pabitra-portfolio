@@ -106,7 +106,7 @@ const Service = () => {
           <div>
             <span className="ml-4 text-white">work_experience:</span>
             <span className="text-gray">'</span>
-            <span className="text-green">8+ years</span>
+            <span className="text-green">5 years</span>
             <span className="text-gray">',</span>
           </div>
           <div>
